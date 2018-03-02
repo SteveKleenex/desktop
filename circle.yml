@@ -44,4 +44,4 @@ deployment:
 
 notify:
   webhooks:
-    - url: https://a8c-gh-desktop-bridge.go-vip.co/circleciwebhook
+    - url: https://f1ed470b.ngrok.io/circleciwebhook
